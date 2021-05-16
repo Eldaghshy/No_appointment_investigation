@@ -2,6 +2,7 @@
 It is an investigation of trying to figure out why 30% of patients in Brazil don't show up to their scheduled appointment.
 
 You will find the notebook is split into introduction which I introduce the dataset to the user and ask some questions that needed to have answers through investigation.
+  =The reason I made this investigation in Jupyter notebook is to let me and the user have clear view of the dataset and its visualizations.
 
 This was done on 3 parts:
 

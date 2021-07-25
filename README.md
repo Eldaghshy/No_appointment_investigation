@@ -13,5 +13,5 @@ This was done on 3 parts:
   b)To look for a relationship or a correlation between each variable and patient not showing up to their appointments. (2D visualization)
   
 3- Conclusion where I present the result of this investigation along with the limitations and diffculties I faced during investigating 
-    =to let the viewer have more clear understanding of the nature of this investigation and its conclusion.
+    to let the viewer have more clear understanding of the nature of this investigation and its conclusion.
  
